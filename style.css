@@ -1,0 +1,98 @@
+header {
+        background-color: #5B9279;
+        border: 2px solid #5B9279;
+        border-radius: 8px;
+}
+header h1{
+        font-size: 40px;
+        color: #0F1035;
+}
+
+body {
+        background-color: #12130F;
+        color: #8FCB9B;
+        font-family:"Madimi One" ;
+}
+
+.FavPlayer {
+        margin: auto; 
+        text-align: center;
+        margin-top: 30px; 
+        border: 1px solid #5B9279;
+        border-collapse: collapse;
+        border-width: inherit;
+        width: 700px; 
+        border-radius: 9px;
+        color: #8FCB9B;
+        margin-bottom: 50px;
+    }
+    
+    .FavPlayer img {
+        align-self: center;
+        margin: auto;
+        text-align: center;
+        align-self: center;
+        width: 100%; 
+        max-width: 700px; 
+        height: auto; 
+        border-radius: 8px;
+    }
+
+body h1 {
+        text-align: center;
+}
+
+.FavFood {
+        margin: auto; 
+        text-align: center;
+        margin-top: 30px; 
+        border: 1px solid #5B9279;
+        border-collapse: collapse;
+        border-width: inherit;
+        width: 670px; 
+        border-radius: 9px;
+        color: #8FCB9B;
+        padding-bottom: 30px;
+    }
+    
+    .FavFood img {
+        align-self: center;
+        margin: auto;
+        text-align: center;
+        align-self: center;
+        width: 100%; 
+        max-width: 300px; 
+        height: auto; 
+        border-radius: 8px;
+    }
+.FavFood {
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        margin-bottom: 30px;
+}
+.FavFood img{
+        display: flex;
+        justify-self: center;
+        align-self: center;
+        margin: 10px;
+        border-radius: 8px;
+        border: 2px solid #5B9279;
+        width: 200px;
+        height: 200px;
+}
+
+.Texty {
+        margin: 20px;
+        border: 4px solid #5B9279;
+        border-radius:8px ;
+        margin-bottom: 40px;
+}
+.Moment {
+        align-self: center;
+        margin: 20px;
+        border: 2px solid #5B9279;
+        text-align: center;
+        border-radius: 8px;
+}
